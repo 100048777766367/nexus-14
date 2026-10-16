@@ -7,12 +7,15 @@
         "Verel-pragondran:",
         "commune the",
         "Fort",
-        "Bridge: The"
+        "Bridge: The",
+        "Jones",
+        "Shelf: Jones"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
         "Has ===[simpler]===> structure than",
         "Verel-pragondran: ===[verel-pragondran]===> commune the",
-        "Fort ===[steuben]===> Bridge: The"
+        "Fort ===[steuben]===> Bridge: The",
+        "Jones ===[ice]===> Shelf: Jones"
     ]
 }
