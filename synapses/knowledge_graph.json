@@ -9,13 +9,19 @@
         "Fort",
         "Bridge: The",
         "Jones",
-        "Shelf: Jones"
+        "Shelf: Jones",
+        "Jasmin",
+        "Jasmin Nunige",
+        "She",
+        "two events"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
         "Has ===[simpler]===> structure than",
         "Verel-pragondran: ===[verel-pragondran]===> commune the",
         "Fort ===[steuben]===> Bridge: The",
-        "Jones ===[ice]===> Shelf: Jones"
+        "Jones ===[ice]===> Shelf: Jones",
+        "Jasmin ===[baumann:]===> Jasmin Nunige",
+        "She ===[competed]===> two events"
     ]
 }
