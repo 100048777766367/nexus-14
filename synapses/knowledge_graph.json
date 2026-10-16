@@ -13,7 +13,9 @@
         "Jasmin",
         "Jasmin Nunige",
         "She",
-        "two events"
+        "two events",
+        "Drnovice",
+        "Czech football"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -22,6 +24,7 @@
         "Fort ===[steuben]===> Bridge: The",
         "Jones ===[ice]===> Shelf: Jones",
         "Jasmin ===[baumann:]===> Jasmin Nunige",
-        "She ===[competed]===> two events"
+        "She ===[competed]===> two events",
+        "Drnovice ===[was]===> Czech football"
     ]
 }
