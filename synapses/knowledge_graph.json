@@ -5,11 +5,14 @@
         "Has",
         "structure than",
         "Verel-pragondran:",
-        "commune the"
+        "commune the",
+        "Fort",
+        "Bridge: The"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
         "Has ===[simpler]===> structure than",
-        "Verel-pragondran: ===[verel-pragondran]===> commune the"
+        "Verel-pragondran: ===[verel-pragondran]===> commune the",
+        "Fort ===[steuben]===> Bridge: The"
     ]
 }
