@@ -1,0 +1,9 @@
+{
+    "complexity_order": "n^n (nodes=3)",
+    "attractor_state": 0.5128,
+    "stigmergic_trails": {
+        "100048777766367/seed": 8748.5487,
+        "100048777766367/nexus-12": 932.4779,
+        "100048777766367/nexus-13": 17905.4767
+    }
+}

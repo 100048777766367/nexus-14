@@ -1,0 +1,12 @@
+{
+    "nodes": [
+        "Ergosecaline:",
+        "ergot alkaloid",
+        "Has",
+        "structure than"
+    ],
+    "edges": [
+        "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
+        "Has ===[simpler]===> structure than"
+    ]
+}
