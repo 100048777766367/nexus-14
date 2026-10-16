@@ -19,7 +19,11 @@
         "Mason",
         "Cass County,",
         "The",
-        "was 2,841"
+        "was 2,841",
+        "Tonga",
+        "The Tonga",
+        "Centered",
+        "19°"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -31,6 +35,8 @@
         "She ===[competed]===> two events",
         "Drnovice ===[was]===> Czech football",
         "Mason ===[township,]===> Cass County,",
-        "The ===[population]===> was 2,841"
+        "The ===[population]===> was 2,841",
+        "Tonga ===[plate:]===> The Tonga",
+        "Centered ===[approximately]===> 19°"
     ]
 }
