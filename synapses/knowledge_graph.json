@@ -27,7 +27,9 @@
         "Five",
         "New Brunswick:",
         "Was",
-        "through the"
+        "through the",
+        "Historic",
+        "Historic preservation"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -43,6 +45,7 @@
         "Tonga ===[plate:]===> The Tonga",
         "Centered ===[approximately]===> 19°",
         "Five ===[rivers,]===> New Brunswick:",
-        "Was ===[formed]===> through the"
+        "Was ===[formed]===> through the",
+        "Historic ===[preservation:]===> Historic preservation"
     ]
 }
