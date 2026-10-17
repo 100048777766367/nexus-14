@@ -33,7 +33,9 @@
         "Bellevue",
         "Virginia): Bellevue,",
         "Dorothea",
-        "Rosalind: Dorothea"
+        "Rosalind: Dorothea",
+        "Dindica:",
+        "genus moths"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -52,6 +54,7 @@
         "Was ===[formed]===> through the",
         "Historic ===[preservation:]===> Historic preservation",
         "Bellevue ===[(batesville,]===> Virginia): Bellevue,",
-        "Dorothea ===[jordan]===> Rosalind: Dorothea"
+        "Dorothea ===[jordan]===> Rosalind: Dorothea",
+        "Dindica: ===[dindica]===> genus moths"
     ]
 }
