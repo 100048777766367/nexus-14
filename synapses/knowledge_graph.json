@@ -31,7 +31,9 @@
         "Historic",
         "Historic preservation",
         "Bellevue",
-        "Virginia): Bellevue,"
+        "Virginia): Bellevue,",
+        "Dorothea",
+        "Rosalind: Dorothea"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -49,6 +51,7 @@
         "Five ===[rivers,]===> New Brunswick:",
         "Was ===[formed]===> through the",
         "Historic ===[preservation:]===> Historic preservation",
-        "Bellevue ===[(batesville,]===> Virginia): Bellevue,"
+        "Bellevue ===[(batesville,]===> Virginia): Bellevue,",
+        "Dorothea ===[jordan]===> Rosalind: Dorothea"
     ]
 }
