@@ -45,7 +45,10 @@
         "Mcquaid",
         "for the",
         "Battle",
-        "Place Monument:"
+        "Place Monument:",
+        "Nos",
+        "NOS energy",
+        "was also"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -70,6 +73,8 @@
         "Includes ===[three]===> species native",
         "Herb ===[mcquaid:]===> Herbert George",
         "Mcquaid ===[played]===> for the",
-        "Battle ===[liberty]===> Place Monument:"
+        "Battle ===[liberty]===> Place Monument:",
+        "Nos ===[(drink):]===> NOS energy",
+        "The ===[drink]===> was also"
     ]
 }
