@@ -39,7 +39,11 @@
         "Sycopsis:",
         "genus plants",
         "Includes",
-        "species native"
+        "species native",
+        "Herb",
+        "Herbert George",
+        "Mcquaid",
+        "for the"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -61,6 +65,8 @@
         "Dorothea ===[jordan]===> Rosalind: Dorothea",
         "Dindica: ===[dindica]===> genus moths",
         "Sycopsis: ===[sycopsis]===> genus plants",
-        "Includes ===[three]===> species native"
+        "Includes ===[three]===> species native",
+        "Herb ===[mcquaid:]===> Herbert George",
+        "Mcquaid ===[played]===> for the"
     ]
 }
