@@ -43,7 +43,9 @@
         "Herb",
         "Herbert George",
         "Mcquaid",
-        "for the"
+        "for the",
+        "Battle",
+        "Place Monument:"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -67,6 +69,7 @@
         "Sycopsis: ===[sycopsis]===> genus plants",
         "Includes ===[three]===> species native",
         "Herb ===[mcquaid:]===> Herbert George",
-        "Mcquaid ===[played]===> for the"
+        "Mcquaid ===[played]===> for the",
+        "Battle ===[liberty]===> Place Monument:"
     ]
 }
