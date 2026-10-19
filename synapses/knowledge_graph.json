@@ -52,7 +52,9 @@
         "Jacques,",
         "Nevers: Jacques",
         "Maurice's",
-        "1591: Maurice's"
+        "1591: Maurice's",
+        "Thiolutin:",
+        "sulfur-containing antibiotic,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -81,6 +83,7 @@
         "Nos ===[(drink):]===> NOS energy",
         "The ===[drink]===> was also",
         "Jacques, ===[duke]===> Nevers: Jacques",
-        "Maurice's ===[campaign]===> 1591: Maurice's"
+        "Maurice's ===[campaign]===> 1591: Maurice's",
+        "Thiolutin: ===[thiolutin]===> sulfur-containing antibiotic,"
     ]
 }
