@@ -48,7 +48,9 @@
         "Place Monument:",
         "Nos",
         "NOS energy",
-        "was also"
+        "was also",
+        "Jacques,",
+        "Nevers: Jacques"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -75,6 +77,7 @@
         "Mcquaid ===[played]===> for the",
         "Battle ===[liberty]===> Place Monument:",
         "Nos ===[(drink):]===> NOS energy",
-        "The ===[drink]===> was also"
+        "The ===[drink]===> was also",
+        "Jacques, ===[duke]===> Nevers: Jacques"
     ]
 }
