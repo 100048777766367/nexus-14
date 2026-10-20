@@ -56,7 +56,9 @@
         "Thiolutin:",
         "sulfur-containing antibiotic,",
         "Calauag:",
-        "officially the"
+        "officially the",
+        "Pak",
+        "Pak Mok-wol"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -87,6 +89,7 @@
         "Jacques, ===[duke]===> Nevers: Jacques",
         "Maurice's ===[campaign]===> 1591: Maurice's",
         "Thiolutin: ===[thiolutin]===> sulfur-containing antibiotic,",
-        "Calauag: ===[calauag,]===> officially the"
+        "Calauag: ===[calauag,]===> officially the",
+        "Pak ===[mok-wol:]===> Pak Mok-wol"
     ]
 }
