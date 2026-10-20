@@ -54,7 +54,9 @@
         "Maurice's",
         "1591: Maurice's",
         "Thiolutin:",
-        "sulfur-containing antibiotic,"
+        "sulfur-containing antibiotic,",
+        "Calauag:",
+        "officially the"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -84,6 +86,7 @@
         "The ===[drink]===> was also",
         "Jacques, ===[duke]===> Nevers: Jacques",
         "Maurice's ===[campaign]===> 1591: Maurice's",
-        "Thiolutin: ===[thiolutin]===> sulfur-containing antibiotic,"
+        "Thiolutin: ===[thiolutin]===> sulfur-containing antibiotic,",
+        "Calauag: ===[calauag,]===> officially the"
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "ho_chi_minh_ethical_score": 0.9811,
+    "ho_chi_minh_ethical_score": 0.9822,
     "virtues": {
-        "can_diligence": 0.91,
-        "kiem_frugality": 0.9987,
-        "liem_integrity": 0.9984,
+        "can_diligence": 0.913,
+        "kiem_frugality": 0.9994,
+        "liem_integrity": 0.9993,
         "chinh_righteousness": 1.0,
-        "chi_cong_vo_tu_impartiality": 0.9985
+        "chi_cong_vo_tu_impartiality": 0.9993
     },
     "veto": false
 }
