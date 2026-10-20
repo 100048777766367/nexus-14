@@ -59,7 +59,11 @@
         "officially the",
         "Pak",
         "Pak Mok-wol",
-        "Oak (film):"
+        "Oak (film):",
+        "Route",
+        "(Vermont–New Hampshire):",
+        "722",
+        "east-west highway"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -92,6 +96,8 @@
         "Thiolutin: ===[thiolutin]===> sulfur-containing antibiotic,",
         "Calauag: ===[calauag,]===> officially the",
         "Pak ===[mok-wol:]===> Pak Mok-wol",
-        "The ===[royal]===> Oak (film):"
+        "The ===[royal]===> Oak (film):",
+        "Route ===[10a]===> (Vermont–New Hampshire):",
+        "722 ===[km)]===> east-west highway"
     ]
 }
