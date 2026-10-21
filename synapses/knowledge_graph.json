@@ -67,7 +67,11 @@
         "Epsilon",
         "Epsilon Cancri",
         "Its",
-        "Bayer designati"
+        "Bayer designati",
+        "Vladimir",
+        "Vladimir Zografski",
+        "Took",
+        "place the"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -104,6 +108,8 @@
         "Route ===[10a]===> (Vermont–New Hampshire):",
         "722 ===[km)]===> east-west highway",
         "Epsilon ===[cancri:]===> Epsilon Cancri",
-        "Its ===[name]===> Bayer designati"
+        "Its ===[name]===> Bayer designati",
+        "Vladimir ===[zografski:]===> Vladimir Zografski",
+        "Took ===[14th]===> place the"
     ]
 }
