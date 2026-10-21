@@ -74,7 +74,11 @@
         "place the",
         "Deepack:",
         "hardstyle duo",
-        "met high"
+        "met high",
+        "Yarovit:",
+        "Iarovit Polabian",
+        "Sources",
+        "only brief"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -115,6 +119,8 @@
         "Vladimir ===[zografski:]===> Vladimir Zografski",
         "Took ===[14th]===> place the",
         "Deepack: ===[deepack]===> hardstyle duo",
-        "The ===[two]===> met high"
+        "The ===[two]===> met high",
+        "Yarovit: ===[yarovit,]===> Iarovit Polabian",
+        "Sources ===[give]===> only brief"
     ]
 }
