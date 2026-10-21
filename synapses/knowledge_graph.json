@@ -63,7 +63,11 @@
         "Route",
         "(Vermont–New Hampshire):",
         "722",
-        "east-west highway"
+        "east-west highway",
+        "Epsilon",
+        "Epsilon Cancri",
+        "Its",
+        "Bayer designati"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -98,6 +102,8 @@
         "Pak ===[mok-wol:]===> Pak Mok-wol",
         "The ===[royal]===> Oak (film):",
         "Route ===[10a]===> (Vermont–New Hampshire):",
-        "722 ===[km)]===> east-west highway"
+        "722 ===[km)]===> east-west highway",
+        "Epsilon ===[cancri:]===> Epsilon Cancri",
+        "Its ===[name]===> Bayer designati"
     ]
 }
