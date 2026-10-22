@@ -78,7 +78,9 @@
         "Yarovit:",
         "Iarovit Polabian",
         "Sources",
-        "only brief"
+        "only brief",
+        "Early",
+        "Spires: The"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -121,6 +123,7 @@
         "Deepack: ===[deepack]===> hardstyle duo",
         "The ===[two]===> met high",
         "Yarovit: ===[yarovit,]===> Iarovit Polabian",
-        "Sources ===[give]===> only brief"
+        "Sources ===[give]===> only brief",
+        "Early ===[winters]===> Spires: The"
     ]
 }
