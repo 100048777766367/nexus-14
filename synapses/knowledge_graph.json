@@ -84,7 +84,9 @@
         "Saint",
         "Serbian Orthodox",
         "Rakuten",
-        "Rakuten Advertising,"
+        "Rakuten Advertising,",
+        "Lotfi",
+        "Jeddou: Lotfi"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -130,6 +132,7 @@
         "Sources ===[give]===> only brief",
         "Early ===[winters]===> Spires: The",
         "Saint ===[mark]===> Serbian Orthodox",
-        "Rakuten ===[advertising:]===> Rakuten Advertising,"
+        "Rakuten ===[advertising:]===> Rakuten Advertising,",
+        "Lotfi ===[ben]===> Jeddou: Lotfi"
     ]
 }
