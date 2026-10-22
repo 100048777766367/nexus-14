@@ -82,7 +82,9 @@
         "Early",
         "Spires: The",
         "Saint",
-        "Serbian Orthodox"
+        "Serbian Orthodox",
+        "Rakuten",
+        "Rakuten Advertising,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -127,6 +129,7 @@
         "Yarovit: ===[yarovit,]===> Iarovit Polabian",
         "Sources ===[give]===> only brief",
         "Early ===[winters]===> Spires: The",
-        "Saint ===[mark]===> Serbian Orthodox"
+        "Saint ===[mark]===> Serbian Orthodox",
+        "Rakuten ===[advertising:]===> Rakuten Advertising,"
     ]
 }
