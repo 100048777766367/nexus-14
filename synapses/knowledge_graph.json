@@ -89,7 +89,9 @@
         "Jeddou: Lotfi",
         "Rieux-minervois:",
         "Bolshaya",
-        "Synagogue: The"
+        "Synagogue: The",
+        "San",
+        "Potosí International"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -138,6 +140,7 @@
         "Rakuten ===[advertising:]===> Rakuten Advertising,",
         "Lotfi ===[ben]===> Jeddou: Lotfi",
         "Rieux-minervois: ===[rieux-minervois]===> commune the",
-        "Bolshaya ===[bronnaya]===> Synagogue: The"
+        "Bolshaya ===[bronnaya]===> Synagogue: The",
+        "San ===[luis]===> Potosí International"
     ]
 }
