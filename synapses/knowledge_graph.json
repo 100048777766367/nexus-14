@@ -91,7 +91,9 @@
         "Bolshaya",
         "Synagogue: The",
         "San",
-        "Potosí International"
+        "Potosí International",
+        "Baghlah:",
+        "bagala, bugala"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -141,6 +143,7 @@
         "Lotfi ===[ben]===> Jeddou: Lotfi",
         "Rieux-minervois: ===[rieux-minervois]===> commune the",
         "Bolshaya ===[bronnaya]===> Synagogue: The",
-        "San ===[luis]===> Potosí International"
+        "San ===[luis]===> Potosí International",
+        "Baghlah: ===[baghlah,]===> bagala, bugala"
     ]
 }
