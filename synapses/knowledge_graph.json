@@ -87,7 +87,9 @@
         "Rakuten Advertising,",
         "Lotfi",
         "Jeddou: Lotfi",
-        "Rieux-minervois:"
+        "Rieux-minervois:",
+        "Bolshaya",
+        "Synagogue: The"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -135,6 +137,7 @@
         "Saint ===[mark]===> Serbian Orthodox",
         "Rakuten ===[advertising:]===> Rakuten Advertising,",
         "Lotfi ===[ben]===> Jeddou: Lotfi",
-        "Rieux-minervois: ===[rieux-minervois]===> commune the"
+        "Rieux-minervois: ===[rieux-minervois]===> commune the",
+        "Bolshaya ===[bronnaya]===> Synagogue: The"
     ]
 }
