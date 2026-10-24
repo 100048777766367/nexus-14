@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ergosecaline:",
-        "ergot alkaloid",
         "Has",
         "structure than",
         "Verel-pragondran:",
@@ -99,7 +97,9 @@
         "Opium",
         "the Kung-Fu",
         "Haunted",
-        "Haunted Hotel"
+        "Haunted Hotel",
+        "Kareem",
+        "Kareem Jamar"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -153,6 +153,7 @@
         "Baghlah: ===[baghlah,]===> bagala, bugala",
         "L'épau ===[abbey:]===> L'Épau Royal",
         "Opium ===[and]===> the Kung-Fu",
-        "Haunted ===[hotel:]===> Haunted Hotel"
+        "Haunted ===[hotel:]===> Haunted Hotel",
+        "Kareem ===[jamar:]===> Kareem Jamar"
     ]
 }
