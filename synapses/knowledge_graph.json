@@ -97,7 +97,9 @@
         "L'épau",
         "L'Épau Royal",
         "Opium",
-        "the Kung-Fu"
+        "the Kung-Fu",
+        "Haunted",
+        "Haunted Hotel"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -150,6 +152,7 @@
         "San ===[luis]===> Potosí International",
         "Baghlah: ===[baghlah,]===> bagala, bugala",
         "L'épau ===[abbey:]===> L'Épau Royal",
-        "Opium ===[and]===> the Kung-Fu"
+        "Opium ===[and]===> the Kung-Fu",
+        "Haunted ===[hotel:]===> Haunted Hotel"
     ]
 }
