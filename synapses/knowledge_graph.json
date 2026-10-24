@@ -93,7 +93,9 @@
         "San",
         "Potosí International",
         "Baghlah:",
-        "bagala, bugala"
+        "bagala, bugala",
+        "L'épau",
+        "L'Épau Royal"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -144,6 +146,7 @@
         "Rieux-minervois: ===[rieux-minervois]===> commune the",
         "Bolshaya ===[bronnaya]===> Synagogue: The",
         "San ===[luis]===> Potosí International",
-        "Baghlah: ===[baghlah,]===> bagala, bugala"
+        "Baghlah: ===[baghlah,]===> bagala, bugala",
+        "L'épau ===[abbey:]===> L'Épau Royal"
     ]
 }
