@@ -95,7 +95,9 @@
         "Baghlah:",
         "bagala, bugala",
         "L'épau",
-        "L'Épau Royal"
+        "L'Épau Royal",
+        "Opium",
+        "the Kung-Fu"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -147,6 +149,7 @@
         "Bolshaya ===[bronnaya]===> Synagogue: The",
         "San ===[luis]===> Potosí International",
         "Baghlah: ===[baghlah,]===> bagala, bugala",
-        "L'épau ===[abbey:]===> L'Épau Royal"
+        "L'épau ===[abbey:]===> L'Épau Royal",
+        "Opium ===[and]===> the Kung-Fu"
     ]
 }
