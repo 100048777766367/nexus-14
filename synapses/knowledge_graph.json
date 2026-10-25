@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Jasmin",
-        "Jasmin Nunige",
         "She",
         "two events",
         "Drnovice",
@@ -99,7 +97,9 @@
         "Octobe",
         "Area",
         "913: Area",
-        "pla"
+        "pla",
+        "First",
+        "Church (Cincinnati,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -159,6 +159,7 @@
         "Despair ===[the]===> debut studio",
         "Was ===[released]===> Octobe",
         "Area ===[code]===> 913: Area",
-        "The ===[numbering]===> pla"
+        "The ===[numbering]===> pla",
+        "First ===[universalist]===> Church (Cincinnati,"
     ]
 }
