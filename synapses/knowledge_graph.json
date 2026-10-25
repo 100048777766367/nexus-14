@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Verel-pragondran:",
-        "commune the",
-        "Fort",
         "Bridge: The",
         "Jones",
         "Shelf: Jones",
@@ -99,7 +96,10 @@
         "Kareem",
         "Kareem Jamar",
         "Glee",
-        "The first"
+        "The first",
+        "Despair",
+        "debut studio",
+        "Octobe"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -155,6 +155,8 @@
         "Opium ===[and]===> the Kung-Fu",
         "Haunted ===[hotel:]===> Haunted Hotel",
         "Kareem ===[jamar:]===> Kareem Jamar",
-        "Glee ===[season]===> The first"
+        "Glee ===[season]===> The first",
+        "Despair ===[the]===> debut studio",
+        "Was ===[released]===> Octobe"
     ]
 }
