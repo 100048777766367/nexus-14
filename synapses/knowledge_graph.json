@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Bridge: The",
-        "Jones",
-        "Shelf: Jones",
         "Jasmin",
         "Jasmin Nunige",
         "She",
@@ -99,7 +96,10 @@
         "The first",
         "Despair",
         "debut studio",
-        "Octobe"
+        "Octobe",
+        "Area",
+        "913: Area",
+        "pla"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -157,6 +157,8 @@
         "Kareem ===[jamar:]===> Kareem Jamar",
         "Glee ===[season]===> The first",
         "Despair ===[the]===> debut studio",
-        "Was ===[released]===> Octobe"
+        "Was ===[released]===> Octobe",
+        "Area ===[code]===> 913: Area",
+        "The ===[numbering]===> pla"
     ]
 }
