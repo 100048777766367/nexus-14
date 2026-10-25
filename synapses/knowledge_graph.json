@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Has",
-        "structure than",
         "Verel-pragondran:",
         "commune the",
         "Fort",
@@ -99,7 +97,9 @@
         "Haunted",
         "Haunted Hotel",
         "Kareem",
-        "Kareem Jamar"
+        "Kareem Jamar",
+        "Glee",
+        "The first"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -154,6 +154,7 @@
         "L'épau ===[abbey:]===> L'Épau Royal",
         "Opium ===[and]===> the Kung-Fu",
         "Haunted ===[hotel:]===> Haunted Hotel",
-        "Kareem ===[jamar:]===> Kareem Jamar"
+        "Kareem ===[jamar:]===> Kareem Jamar",
+        "Glee ===[season]===> The first"
     ]
 }
