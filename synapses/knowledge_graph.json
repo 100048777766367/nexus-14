@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Drnovice",
-        "Czech football",
         "Mason",
         "Cass County,",
         "The",
@@ -99,7 +97,9 @@
         "First",
         "Church (Cincinnati,",
         "Bhitargaon:",
-        "town, near"
+        "town, near",
+        "Erina",
+        "The Shire"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -161,6 +161,7 @@
         "Area ===[code]===> 913: Area",
         "The ===[numbering]===> pla",
         "First ===[universalist]===> Church (Cincinnati,",
-        "Bhitargaon: ===[bhitargaon]===> town, near"
+        "Bhitargaon: ===[bhitargaon]===> town, near",
+        "Erina ===[shire:]===> The Shire"
     ]
 }
