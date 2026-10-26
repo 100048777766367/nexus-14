@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "She",
-        "two events",
         "Drnovice",
         "Czech football",
         "Mason",
@@ -99,7 +97,9 @@
         "913: Area",
         "pla",
         "First",
-        "Church (Cincinnati,"
+        "Church (Cincinnati,",
+        "Bhitargaon:",
+        "town, near"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -160,6 +160,7 @@
         "Was ===[released]===> Octobe",
         "Area ===[code]===> 913: Area",
         "The ===[numbering]===> pla",
-        "First ===[universalist]===> Church (Cincinnati,"
+        "First ===[universalist]===> Church (Cincinnati,",
+        "Bhitargaon: ===[bhitargaon]===> town, near"
     ]
 }
