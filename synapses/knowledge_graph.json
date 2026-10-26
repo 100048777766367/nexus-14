@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mason",
-        "Cass County,",
         "The",
         "was 2,841",
         "Tonga",
@@ -99,7 +97,9 @@
         "Bhitargaon:",
         "town, near",
         "Erina",
-        "The Shire"
+        "The Shire",
+        "Samuel",
+        "House: The"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -162,6 +162,7 @@
         "The ===[numbering]===> pla",
         "First ===[universalist]===> Church (Cincinnati,",
         "Bhitargaon: ===[bhitargaon]===> town, near",
-        "Erina ===[shire:]===> The Shire"
+        "Erina ===[shire:]===> The Shire",
+        "Samuel ===[copeland]===> House: The"
     ]
 }
