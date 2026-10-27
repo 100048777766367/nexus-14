@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The Tonga",
-        "Centered",
         "19°",
         "Five",
         "New Brunswick:",
@@ -99,7 +97,9 @@
         "House: The",
         "Sinner: The",
         "Van",
-        "and starring"
+        "and starring",
+        "Leslie",
+        "Frank William"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -165,6 +165,7 @@
         "Erina ===[shire:]===> The Shire",
         "Samuel ===[copeland]===> House: The",
         "The ===[beautiful]===> Sinner: The",
-        "Van ===[dyke]===> and starring"
+        "Van ===[dyke]===> and starring",
+        "Leslie ===[davenport:]===> Frank William"
     ]
 }
