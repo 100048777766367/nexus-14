@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "19°",
-        "Five",
-        "New Brunswick:",
-        "Was",
         "through the",
         "Historic",
         "Historic preservation",
@@ -99,7 +95,11 @@
         "Van",
         "and starring",
         "Leslie",
-        "Frank William"
+        "Frank William",
+        "Four",
+        "Conference (Illinois):",
+        "The",
+        "participated athlet"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -166,6 +166,8 @@
         "Samuel ===[copeland]===> House: The",
         "The ===[beautiful]===> Sinner: The",
         "Van ===[dyke]===> and starring",
-        "Leslie ===[davenport:]===> Frank William"
+        "Leslie ===[davenport:]===> Frank William",
+        "Four ===[rivers]===> Conference (Illinois):",
+        "The ===[conference]===> participated athlet"
     ]
 }
