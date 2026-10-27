@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "The",
-        "was 2,841",
-        "Tonga",
         "The Tonga",
         "Centered",
         "19°",
@@ -99,7 +96,10 @@
         "Erina",
         "The Shire",
         "Samuel",
-        "House: The"
+        "House: The",
+        "Sinner: The",
+        "Van",
+        "and starring"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -163,6 +163,8 @@
         "First ===[universalist]===> Church (Cincinnati,",
         "Bhitargaon: ===[bhitargaon]===> town, near",
         "Erina ===[shire:]===> The Shire",
-        "Samuel ===[copeland]===> House: The"
+        "Samuel ===[copeland]===> House: The",
+        "The ===[beautiful]===> Sinner: The",
+        "Van ===[dyke]===> and starring"
     ]
 }
