@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "through the",
-        "Historic",
         "Historic preservation",
         "Bellevue",
         "Virginia): Bellevue,",
@@ -99,7 +97,9 @@
         "Four",
         "Conference (Illinois):",
         "The",
-        "participated athlet"
+        "participated athlet",
+        "Håkvik",
+        "Håkvik Chapel"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -168,6 +168,7 @@
         "Van ===[dyke]===> and starring",
         "Leslie ===[davenport:]===> Frank William",
         "Four ===[rivers]===> Conference (Illinois):",
-        "The ===[conference]===> participated athlet"
+        "The ===[conference]===> participated athlet",
+        "Håkvik ===[chapel:]===> Håkvik Chapel"
     ]
 }
