@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Historic preservation",
-        "Bellevue",
-        "Virginia): Bellevue,",
-        "Dorothea",
         "Rosalind: Dorothea",
         "Dindica:",
         "genus moths",
@@ -99,7 +95,11 @@
         "The",
         "participated athlet",
         "Håkvik",
-        "Håkvik Chapel"
+        "Håkvik Chapel",
+        "Ditomyiidae:",
+        "Ditomyiidae are",
+        "They",
+        "found worldwide,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -169,6 +169,8 @@
         "Leslie ===[davenport:]===> Frank William",
         "Four ===[rivers]===> Conference (Illinois):",
         "The ===[conference]===> participated athlet",
-        "Håkvik ===[chapel:]===> Håkvik Chapel"
+        "Håkvik ===[chapel:]===> Håkvik Chapel",
+        "Ditomyiidae: ===[the]===> Ditomyiidae are",
+        "They ===[are]===> found worldwide,"
     ]
 }
