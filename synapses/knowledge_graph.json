@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Rosalind: Dorothea",
-        "Dindica:",
         "genus moths",
         "Sycopsis:",
         "genus plants",
@@ -99,7 +97,9 @@
         "Ditomyiidae:",
         "Ditomyiidae are",
         "They",
-        "found worldwide,"
+        "found worldwide,",
+        "Building",
+        "Park Avenue:"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -171,6 +171,7 @@
         "The ===[conference]===> participated athlet",
         "Håkvik ===[chapel:]===> Håkvik Chapel",
         "Ditomyiidae: ===[the]===> Ditomyiidae are",
-        "They ===[are]===> found worldwide,"
+        "They ===[are]===> found worldwide,",
+        "Building ===[202]===> Park Avenue:"
     ]
 }
