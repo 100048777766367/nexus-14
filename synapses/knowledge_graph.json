@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "for the",
-        "Battle",
-        "Place Monument:",
         "Nos",
         "NOS energy",
         "was also",
@@ -99,7 +96,10 @@
         "Tilly",
         "Mathilde Rupp,",
         "She",
-        "noted for"
+        "noted for",
+        "Lukut",
+        "and Museum:",
+        "was built"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -176,6 +176,8 @@
         "Zhou ===[wenzhong:]===> Zhou Wenzhong",
         "Served ===[ambassador]===> the United",
         "Tilly ===[bébé:]===> Mathilde Rupp,",
-        "She ===[was]===> noted for"
+        "She ===[was]===> noted for",
+        "Lukut ===[fort]===> and Museum:",
+        "The ===[fort]===> was built"
     ]
 }
