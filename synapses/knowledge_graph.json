@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "genus moths",
-        "Sycopsis:",
-        "genus plants",
-        "Includes",
         "species native",
         "Herb",
         "Herbert George",
@@ -99,7 +95,11 @@
         "They",
         "found worldwide,",
         "Building",
-        "Park Avenue:"
+        "Park Avenue:",
+        "Zhou",
+        "Zhou Wenzhong",
+        "Served",
+        "the United"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -172,6 +172,8 @@
         "Håkvik ===[chapel:]===> Håkvik Chapel",
         "Ditomyiidae: ===[the]===> Ditomyiidae are",
         "They ===[are]===> found worldwide,",
-        "Building ===[202]===> Park Avenue:"
+        "Building ===[202]===> Park Avenue:",
+        "Zhou ===[wenzhong:]===> Zhou Wenzhong",
+        "Served ===[ambassador]===> the United"
     ]
 }
