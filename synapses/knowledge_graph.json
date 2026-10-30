@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Jacques,",
-        "Nevers: Jacques",
-        "Maurice's",
-        "1591: Maurice's",
         "Thiolutin:",
         "sulfur-containing antibiotic,",
         "Calauag:",
@@ -99,7 +95,11 @@
         "was built",
         "York Album:",
         "Hermes:",
-        "Johannes \"Ad\""
+        "Johannes \"Ad\"",
+        "Ptilostomis:",
+        "genus giant",
+        "There",
+        "least four"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -180,6 +180,8 @@
         "Lukut ===[fort]===> and Museum:",
         "The ===[fort]===> was built",
         "The ===[new]===> York Album:",
-        "Hermes: ===[adrianus]===> Johannes \"Ad\""
+        "Hermes: ===[adrianus]===> Johannes \"Ad\"",
+        "Ptilostomis: ===[ptilostomis]===> genus giant",
+        "There ===[are]===> least four"
     ]
 }
