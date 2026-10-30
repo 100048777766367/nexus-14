@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "NOS energy",
-        "was also",
         "Jacques,",
         "Nevers: Jacques",
         "Maurice's",
@@ -99,7 +97,9 @@
         "Lukut",
         "and Museum:",
         "was built",
-        "York Album:"
+        "York Album:",
+        "Hermes:",
+        "Johannes \"Ad\""
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -179,6 +179,7 @@
         "She ===[was]===> noted for",
         "Lukut ===[fort]===> and Museum:",
         "The ===[fort]===> was built",
-        "The ===[new]===> York Album:"
+        "The ===[new]===> York Album:",
+        "Hermes: ===[adrianus]===> Johannes \"Ad\""
     ]
 }
