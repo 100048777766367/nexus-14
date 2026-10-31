@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(Vermont–New Hampshire):",
-        "722",
         "east-west highway",
         "Epsilon",
         "Epsilon Cancri",
@@ -99,7 +97,9 @@
         "Sadolin",
         "Hall: The",
         "Was",
-        "2010 and"
+        "2010 and",
+        "Bianca",
+        "Bianca Spender"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -186,6 +186,7 @@
         "Amorupi: ===[amorupi]===> genus beetles",
         "Why ===[don't]===> They Let",
         "Sadolin ===[sports]===> Hall: The",
-        "Was ===[opened]===> 2010 and"
+        "Was ===[opened]===> 2010 and",
+        "Bianca ===[spender:]===> Bianca Spender"
     ]
 }
