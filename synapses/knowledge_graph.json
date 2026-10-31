@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Thiolutin:",
-        "sulfur-containing antibiotic,",
         "Calauag:",
         "officially the",
         "Pak",
@@ -99,7 +97,9 @@
         "Ptilostomis:",
         "genus giant",
         "There",
-        "least four"
+        "least four",
+        "Amorupi:",
+        "genus beetles"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -182,6 +182,7 @@
         "The ===[new]===> York Album:",
         "Hermes: ===[adrianus]===> Johannes \"Ad\"",
         "Ptilostomis: ===[ptilostomis]===> genus giant",
-        "There ===[are]===> least four"
+        "There ===[are]===> least four",
+        "Amorupi: ===[amorupi]===> genus beetles"
     ]
 }

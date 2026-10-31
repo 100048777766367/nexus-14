@@ -1,6 +1,6 @@
 {
-    "generation_epoch": 59,
-    "last_t": 1793393439,
-    "quantum_cid": "f08d0fdb86019346cfafbd8de610c2547cf4ff63656587e51230fb261845716480b521783456d673f364f09d8d43e1efb5cf429843830f0d3b38422a9e8d3038",
+    "generation_epoch": 60,
+    "last_t": 1793425800,
+    "quantum_cid": "4174ab04aa5e0fc77d1f60a26cbf2309f1635a5f7594bd5dcc1c9b7e77c9ab65b8f7ca6a318d0c12dcc99d40fdbe6d43d2c4452c82deb9a19825e2ad1ac993b8",
     "status": "tetradecagon_f14_evolved"
 }
