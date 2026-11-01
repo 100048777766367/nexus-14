@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "east-west highway",
-        "Epsilon",
-        "Epsilon Cancri",
         "Its",
         "Bayer designati",
         "Vladimir",
@@ -99,7 +96,10 @@
         "Was",
         "2010 and",
         "Bianca",
-        "Bianca Spender"
+        "Bianca Spender",
+        "Biesenthal-barnim:",
+        "Biesenthal-Barnim Amt",
+        "the town"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -187,6 +187,8 @@
         "Why ===[don't]===> They Let",
         "Sadolin ===[sports]===> Hall: The",
         "Was ===[opened]===> 2010 and",
-        "Bianca ===[spender:]===> Bianca Spender"
+        "Bianca ===[spender:]===> Bianca Spender",
+        "Biesenthal-barnim: ===[amt]===> Biesenthal-Barnim Amt",
+        "Its ===[seat]===> the town"
     ]
 }
