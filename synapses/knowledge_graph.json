@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Its",
-        "Bayer designati",
         "Vladimir",
         "Vladimir Zografski",
         "Took",
@@ -99,7 +97,9 @@
         "Bianca Spender",
         "Biesenthal-barnim:",
         "Biesenthal-Barnim Amt",
-        "the town"
+        "the town",
+        "John",
+        "(Canadian civil"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -189,6 +189,7 @@
         "Was ===[opened]===> 2010 and",
         "Bianca ===[spender:]===> Bianca Spender",
         "Biesenthal-barnim: ===[amt]===> Biesenthal-Barnim Amt",
-        "Its ===[seat]===> the town"
+        "Its ===[seat]===> the town",
+        "John ===[hannaford]===> (Canadian civil"
     ]
 }
