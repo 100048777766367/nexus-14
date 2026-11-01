@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Vladimir",
-        "Vladimir Zografski",
-        "Took",
         "place the",
         "Deepack:",
         "hardstyle duo",
@@ -99,7 +96,10 @@
         "Biesenthal-Barnim Amt",
         "the town",
         "John",
-        "(Canadian civil"
+        "(Canadian civil",
+        "Sullivan:",
+        "Henry Sullivan",
+        "pro"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -190,6 +190,8 @@
         "Bianca ===[spender:]===> Bianca Spender",
         "Biesenthal-barnim: ===[amt]===> Biesenthal-Barnim Amt",
         "Its ===[seat]===> the town",
-        "John ===[hannaford]===> (Canadian civil"
+        "John ===[hannaford]===> (Canadian civil",
+        "Sullivan: ===[george]===> Henry Sullivan",
+        "The ===[president]===> pro"
     ]
 }
