@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "place the",
-        "Deepack:",
         "hardstyle duo",
         "met high",
         "Yarovit:",
@@ -99,7 +97,9 @@
         "(Canadian civil",
         "Sullivan:",
         "Henry Sullivan",
-        "pro"
+        "pro",
+        "2024",
+        "Citi Open"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -192,6 +192,7 @@
         "Its ===[seat]===> the town",
         "John ===[hannaford]===> (Canadian civil",
         "Sullivan: ===[george]===> Henry Sullivan",
-        "The ===[president]===> pro"
+        "The ===[president]===> pro",
+        "2024 ===[mubadala]===> Citi Open"
     ]
 }
