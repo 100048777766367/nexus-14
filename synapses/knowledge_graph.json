@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "hardstyle duo",
-        "met high",
         "Yarovit:",
         "Iarovit Polabian",
         "Sources",
@@ -99,7 +97,9 @@
         "Henry Sullivan",
         "pro",
         "2024",
-        "Citi Open"
+        "Citi Open",
+        "2k22",
+        "The 2K22"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -193,6 +193,7 @@
         "John ===[hannaford]===> (Canadian civil",
         "Sullivan: ===[george]===> Henry Sullivan",
         "The ===[president]===> pro",
-        "2024 ===[mubadala]===> Citi Open"
+        "2024 ===[mubadala]===> Citi Open",
+        "2k22 ===[tunguska:]===> The 2K22"
     ]
 }
