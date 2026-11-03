@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Early",
-        "Spires: The",
-        "Saint",
         "Serbian Orthodox",
         "Rakuten",
         "Rakuten Advertising,",
@@ -99,7 +96,10 @@
         "Railway",
         "Prince Imperial:",
         "Protvino:",
-        "town Moscow"
+        "town Moscow",
+        "Tamwe",
+        "Tamwe Township",
+        "comprises wards,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -196,6 +196,8 @@
         "2024 ===[mubadala]===> Citi Open",
         "2k22 ===[tunguska:]===> The 2K22",
         "Railway ===[the]===> Prince Imperial:",
-        "Protvino: ===[protvino]===> town Moscow"
+        "Protvino: ===[protvino]===> town Moscow",
+        "Tamwe ===[township:]===> Tamwe Township",
+        "The ===[township]===> comprises wards,"
     ]
 }
