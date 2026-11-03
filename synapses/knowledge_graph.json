@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sources",
-        "only brief",
         "Early",
         "Spires: The",
         "Saint",
@@ -99,7 +97,9 @@
         "2k22",
         "The 2K22",
         "Railway",
-        "Prince Imperial:"
+        "Prince Imperial:",
+        "Protvino:",
+        "town Moscow"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -195,6 +195,7 @@
         "The ===[president]===> pro",
         "2024 ===[mubadala]===> Citi Open",
         "2k22 ===[tunguska:]===> The 2K22",
-        "Railway ===[the]===> Prince Imperial:"
+        "Railway ===[the]===> Prince Imperial:",
+        "Protvino: ===[protvino]===> town Moscow"
     ]
 }
