@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Yarovit:",
-        "Iarovit Polabian",
         "Sources",
         "only brief",
         "Early",
@@ -99,7 +97,9 @@
         "2024",
         "Citi Open",
         "2k22",
-        "The 2K22"
+        "The 2K22",
+        "Railway",
+        "Prince Imperial:"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -194,6 +194,7 @@
         "Sullivan: ===[george]===> Henry Sullivan",
         "The ===[president]===> pro",
         "2024 ===[mubadala]===> Citi Open",
-        "2k22 ===[tunguska:]===> The 2K22"
+        "2k22 ===[tunguska:]===> The 2K22",
+        "Railway ===[the]===> Prince Imperial:"
     ]
 }
