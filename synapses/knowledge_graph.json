@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Serbian Orthodox",
-        "Rakuten",
         "Rakuten Advertising,",
         "Lotfi",
         "Jeddou: Lotfi",
@@ -99,7 +97,9 @@
         "town Moscow",
         "Tamwe",
         "Tamwe Township",
-        "comprises wards,"
+        "comprises wards,",
+        "Echigo-takiya",
+        "Echigo-Takiya Station"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -198,6 +198,7 @@
         "Railway ===[the]===> Prince Imperial:",
         "Protvino: ===[protvino]===> town Moscow",
         "Tamwe ===[township:]===> Tamwe Township",
-        "The ===[township]===> comprises wards,"
+        "The ===[township]===> comprises wards,",
+        "Echigo-takiya ===[station:]===> Echigo-Takiya Station"
     ]
 }
