@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Rakuten Advertising,",
-        "Lotfi",
-        "Jeddou: Lotfi",
-        "Rieux-minervois:",
         "Bolshaya",
         "Synagogue: The",
         "San",
@@ -99,7 +95,11 @@
         "Tamwe Township",
         "comprises wards,",
         "Echigo-takiya",
-        "Echigo-Takiya Station"
+        "Echigo-Takiya Station",
+        "Gopal",
+        "Pillai: Gopal",
+        "Pillai",
+        "Indian Administrative"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -199,6 +199,8 @@
         "Protvino: ===[protvino]===> town Moscow",
         "Tamwe ===[township:]===> Tamwe Township",
         "The ===[township]===> comprises wards,",
-        "Echigo-takiya ===[station:]===> Echigo-Takiya Station"
+        "Echigo-takiya ===[station:]===> Echigo-Takiya Station",
+        "Gopal ===[krishna]===> Pillai: Gopal",
+        "Pillai ===[retired]===> Indian Administrative"
     ]
 }
