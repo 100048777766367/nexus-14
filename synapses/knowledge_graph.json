@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Bolshaya",
-        "Synagogue: The",
-        "San",
-        "Potosí International",
         "Baghlah:",
         "bagala, bugala",
         "L'épau",
@@ -99,7 +95,11 @@
         "Gopal",
         "Pillai: Gopal",
         "Pillai",
-        "Indian Administrative"
+        "Indian Administrative",
+        "Three-toed",
+        "The three-toed",
+        "Endemic",
+        "China"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -201,6 +201,8 @@
         "The ===[township]===> comprises wards,",
         "Echigo-takiya ===[station:]===> Echigo-Takiya Station",
         "Gopal ===[krishna]===> Pillai: Gopal",
-        "Pillai ===[retired]===> Indian Administrative"
+        "Pillai ===[retired]===> Indian Administrative",
+        "Three-toed ===[parrotbill:]===> The three-toed",
+        "Endemic ===[central]===> China"
     ]
 }
