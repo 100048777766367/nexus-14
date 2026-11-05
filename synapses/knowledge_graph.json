@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Baghlah:",
-        "bagala, bugala",
-        "L'épau",
         "L'Épau Royal",
         "Opium",
         "the Kung-Fu",
@@ -99,7 +96,10 @@
         "Three-toed",
         "The three-toed",
         "Endemic",
-        "China"
+        "China",
+        "Drowning",
+        "Town song):",
+        "was written"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -203,6 +203,8 @@
         "Gopal ===[krishna]===> Pillai: Gopal",
         "Pillai ===[retired]===> Indian Administrative",
         "Three-toed ===[parrotbill:]===> The three-toed",
-        "Endemic ===[central]===> China"
+        "Endemic ===[central]===> China",
+        "Drowning ===[(crazy]===> Town song):",
+        "The ===[song]===> was written"
     ]
 }
