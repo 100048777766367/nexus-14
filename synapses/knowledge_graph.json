@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Despair",
-        "debut studio",
         "Octobe",
         "Area",
         "913: Area",
@@ -99,7 +97,9 @@
         "Valerie Isobel",
         "the 1958,",
         "Sad",
-        "Story: Sad"
+        "Story: Sad",
+        "Newport",
+        "Shipbuilding: Newport"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -210,6 +210,7 @@
         "Administrative ===[training]===> Institute, Mysore:",
         "Valerie ===[young:]===> Valerie Isobel",
         "She ===[competed]===> the 1958,",
-        "Sad ===[love]===> Story: Sad"
+        "Sad ===[love]===> Story: Sad",
+        "Newport ===[news]===> Shipbuilding: Newport"
     ]
 }
