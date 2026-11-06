@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Glee",
-        "The first",
         "Despair",
         "debut studio",
         "Octobe",
@@ -99,7 +97,9 @@
         "Institute, Mysore:",
         "Valerie",
         "Valerie Isobel",
-        "the 1958,"
+        "the 1958,",
+        "Sad",
+        "Story: Sad"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -209,6 +209,7 @@
         "Red ===[star]===> Belgrade (women's",
         "Administrative ===[training]===> Institute, Mysore:",
         "Valerie ===[young:]===> Valerie Isobel",
-        "She ===[competed]===> the 1958,"
+        "She ===[competed]===> the 1958,",
+        "Sad ===[love]===> Story: Sad"
     ]
 }
