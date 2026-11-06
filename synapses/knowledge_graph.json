@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Haunted Hotel",
-        "Kareem",
-        "Kareem Jamar",
         "Glee",
         "The first",
         "Despair",
@@ -99,7 +96,10 @@
         "Red",
         "Belgrade (women's",
         "Administrative",
-        "Institute, Mysore:"
+        "Institute, Mysore:",
+        "Valerie",
+        "Valerie Isobel",
+        "the 1958,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -207,6 +207,8 @@
         "Drowning ===[(crazy]===> Town song):",
         "The ===[song]===> was written",
         "Red ===[star]===> Belgrade (women's",
-        "Administrative ===[training]===> Institute, Mysore:"
+        "Administrative ===[training]===> Institute, Mysore:",
+        "Valerie ===[young:]===> Valerie Isobel",
+        "She ===[competed]===> the 1958,"
     ]
 }
