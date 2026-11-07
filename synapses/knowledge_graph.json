@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Octobe",
-        "Area",
         "913: Area",
         "pla",
         "First",
@@ -99,7 +97,9 @@
         "Sad",
         "Story: Sad",
         "Newport",
-        "Shipbuilding: Newport"
+        "Shipbuilding: Newport",
+        "Kopanki,",
+        "Poland Voivodeship:"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -211,6 +211,7 @@
         "Valerie ===[young:]===> Valerie Isobel",
         "She ===[competed]===> the 1958,",
         "Sad ===[love]===> Story: Sad",
-        "Newport ===[news]===> Shipbuilding: Newport"
+        "Newport ===[news]===> Shipbuilding: Newport",
+        "Kopanki, ===[greater]===> Poland Voivodeship:"
     ]
 }
