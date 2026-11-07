@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Church (Cincinnati,",
-        "Bhitargaon:",
         "town, near",
         "Erina",
         "The Shire",
@@ -99,7 +97,9 @@
         "Poland Voivodeship:",
         "Venango",
         "Erie County,",
-        "was 2,253"
+        "was 2,253",
+        "Roosevelt",
+        "Park: Roosevelt"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -214,6 +214,7 @@
         "Newport ===[news]===> Shipbuilding: Newport",
         "Kopanki, ===[greater]===> Poland Voivodeship:",
         "Venango ===[township,]===> Erie County,",
-        "The ===[population]===> was 2,253"
+        "The ===[population]===> was 2,253",
+        "Roosevelt ===[state]===> Park: Roosevelt"
     ]
 }
