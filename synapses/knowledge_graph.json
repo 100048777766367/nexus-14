@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "913: Area",
-        "pla",
-        "First",
         "Church (Cincinnati,",
         "Bhitargaon:",
         "town, near",
@@ -99,7 +96,10 @@
         "Newport",
         "Shipbuilding: Newport",
         "Kopanki,",
-        "Poland Voivodeship:"
+        "Poland Voivodeship:",
+        "Venango",
+        "Erie County,",
+        "was 2,253"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -212,6 +212,8 @@
         "She ===[competed]===> the 1958,",
         "Sad ===[love]===> Story: Sad",
         "Newport ===[news]===> Shipbuilding: Newport",
-        "Kopanki, ===[greater]===> Poland Voivodeship:"
+        "Kopanki, ===[greater]===> Poland Voivodeship:",
+        "Venango ===[township,]===> Erie County,",
+        "The ===[population]===> was 2,253"
     ]
 }
