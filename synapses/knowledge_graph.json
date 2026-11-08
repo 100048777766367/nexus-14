@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Sinner: The",
-        "Van",
-        "and starring",
-        "Leslie",
         "Frank William",
         "Four",
         "Conference (Illinois):",
@@ -99,7 +95,11 @@
         "Ahmed Shawqi,",
         "Pinky",
         "Pinky 1949",
-        "was adapted"
+        "was adapted",
+        "Arkansas",
+        "Arkansas Highway",
+        "Km)",
+        "fro"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -218,6 +218,8 @@
         "Roosevelt ===[state]===> Park: Roosevelt",
         "Ahmed ===[shawqi:]===> Ahmed Shawqi,",
         "Pinky ===[(film):]===> Pinky 1949",
-        "The ===[screenplay]===> was adapted"
+        "The ===[screenplay]===> was adapted",
+        "Arkansas ===[highway]===> Arkansas Highway",
+        "Km) ===[runs]===> fro"
     ]
 }
