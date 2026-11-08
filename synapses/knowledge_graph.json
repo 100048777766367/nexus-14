@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "town, near",
-        "Erina",
         "The Shire",
         "Samuel",
         "House: The",
@@ -99,7 +97,9 @@
         "Erie County,",
         "was 2,253",
         "Roosevelt",
-        "Park: Roosevelt"
+        "Park: Roosevelt",
+        "Ahmed",
+        "Ahmed Shawqi,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -215,6 +215,7 @@
         "Kopanki, ===[greater]===> Poland Voivodeship:",
         "Venango ===[township,]===> Erie County,",
         "The ===[population]===> was 2,253",
-        "Roosevelt ===[state]===> Park: Roosevelt"
+        "Roosevelt ===[state]===> Park: Roosevelt",
+        "Ahmed ===[shawqi:]===> Ahmed Shawqi,"
     ]
 }
