@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "The Shire",
-        "Samuel",
-        "House: The",
         "Sinner: The",
         "Van",
         "and starring",
@@ -99,7 +96,10 @@
         "Roosevelt",
         "Park: Roosevelt",
         "Ahmed",
-        "Ahmed Shawqi,"
+        "Ahmed Shawqi,",
+        "Pinky",
+        "Pinky 1949",
+        "was adapted"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -216,6 +216,8 @@
         "Venango ===[township,]===> Erie County,",
         "The ===[population]===> was 2,253",
         "Roosevelt ===[state]===> Park: Roosevelt",
-        "Ahmed ===[shawqi:]===> Ahmed Shawqi,"
+        "Ahmed ===[shawqi:]===> Ahmed Shawqi,",
+        "Pinky ===[(film):]===> Pinky 1949",
+        "The ===[screenplay]===> was adapted"
     ]
 }
