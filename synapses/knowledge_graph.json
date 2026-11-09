@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Conference (Illinois):",
-        "The",
-        "participated athlet",
         "Håkvik",
         "Håkvik Chapel",
         "Ditomyiidae:",
@@ -99,7 +96,10 @@
         "Km)",
         "fro",
         "Krasnojarsk",
-        "Krasnojarsk was"
+        "Krasnojarsk was",
+        "Wallumbilla",
+        "station: Wallumbilla",
+        "tow"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -221,6 +221,8 @@
         "The ===[screenplay]===> was adapted",
         "Arkansas ===[highway]===> Arkansas Highway",
         "Km) ===[runs]===> fro",
-        "Krasnojarsk ===[(meteorite):]===> Krasnojarsk was"
+        "Krasnojarsk ===[(meteorite):]===> Krasnojarsk was",
+        "Wallumbilla ===[railway]===> station: Wallumbilla",
+        "Served ===[the]===> tow"
     ]
 }
