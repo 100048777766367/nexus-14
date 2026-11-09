@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Frank William",
-        "Four",
         "Conference (Illinois):",
         "The",
         "participated athlet",
@@ -99,7 +97,9 @@
         "Arkansas",
         "Arkansas Highway",
         "Km)",
-        "fro"
+        "fro",
+        "Krasnojarsk",
+        "Krasnojarsk was"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -220,6 +220,7 @@
         "Pinky ===[(film):]===> Pinky 1949",
         "The ===[screenplay]===> was adapted",
         "Arkansas ===[highway]===> Arkansas Highway",
-        "Km) ===[runs]===> fro"
+        "Km) ===[runs]===> fro",
+        "Krasnojarsk ===[(meteorite):]===> Krasnojarsk was"
     ]
 }
