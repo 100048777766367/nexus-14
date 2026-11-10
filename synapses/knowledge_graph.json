@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "They",
-        "found worldwide,",
         "Building",
         "Park Avenue:",
         "Zhou",
@@ -99,7 +97,9 @@
         "Erin",
         "(field hockey):",
         "Brad",
-        "Bradley Porter"
+        "Bradley Porter",
+        "Universidade",
+        "Universidade Paz"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -225,6 +225,7 @@
         "Wallumbilla ===[railway]===> station: Wallumbilla",
         "Served ===[the]===> tow",
         "Erin ===[matson]===> (field hockey):",
-        "Brad ===[porter:]===> Bradley Porter"
+        "Brad ===[porter:]===> Bradley Porter",
+        "Universidade ===[paz:]===> Universidade Paz"
     ]
 }
