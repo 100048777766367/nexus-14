@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Håkvik",
-        "Håkvik Chapel",
         "Ditomyiidae:",
         "Ditomyiidae are",
         "They",
@@ -99,7 +97,9 @@
         "Krasnojarsk was",
         "Wallumbilla",
         "station: Wallumbilla",
-        "tow"
+        "tow",
+        "Erin",
+        "(field hockey):"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -223,6 +223,7 @@
         "Km) ===[runs]===> fro",
         "Krasnojarsk ===[(meteorite):]===> Krasnojarsk was",
         "Wallumbilla ===[railway]===> station: Wallumbilla",
-        "Served ===[the]===> tow"
+        "Served ===[the]===> tow",
+        "Erin ===[matson]===> (field hockey):"
     ]
 }
