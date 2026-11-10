@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ditomyiidae:",
-        "Ditomyiidae are",
         "They",
         "found worldwide,",
         "Building",
@@ -99,7 +97,9 @@
         "station: Wallumbilla",
         "tow",
         "Erin",
-        "(field hockey):"
+        "(field hockey):",
+        "Brad",
+        "Bradley Porter"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -224,6 +224,7 @@
         "Krasnojarsk ===[(meteorite):]===> Krasnojarsk was",
         "Wallumbilla ===[railway]===> station: Wallumbilla",
         "Served ===[the]===> tow",
-        "Erin ===[matson]===> (field hockey):"
+        "Erin ===[matson]===> (field hockey):",
+        "Brad ===[porter:]===> Bradley Porter"
     ]
 }
