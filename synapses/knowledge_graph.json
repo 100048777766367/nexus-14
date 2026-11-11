@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Zhou",
-        "Zhou Wenzhong",
         "Served",
         "the United",
         "Tilly",
@@ -99,7 +97,9 @@
         "Universidade",
         "Universidade Paz",
         "Vegyn:",
-        "Winger Thornalley,"
+        "Winger Thornalley,",
+        "Japan",
+        "Route 142:"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -227,6 +227,7 @@
         "Erin ===[matson]===> (field hockey):",
         "Brad ===[porter:]===> Bradley Porter",
         "Universidade ===[paz:]===> Universidade Paz",
-        "Vegyn: ===[joseph]===> Winger Thornalley,"
+        "Vegyn: ===[joseph]===> Winger Thornalley,",
+        "Japan ===[national]===> Route 142:"
     ]
 }
