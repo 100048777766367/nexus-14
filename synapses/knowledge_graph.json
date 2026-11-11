@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Served",
-        "the United",
         "Tilly",
         "Mathilde Rupp,",
         "She",
@@ -99,7 +97,9 @@
         "Vegyn:",
         "Winger Thornalley,",
         "Japan",
-        "Route 142:"
+        "Route 142:",
+        "Ghorawadi",
+        "The Ghorawadi"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -228,6 +228,7 @@
         "Brad ===[porter:]===> Bradley Porter",
         "Universidade ===[paz:]===> Universidade Paz",
         "Vegyn: ===[joseph]===> Winger Thornalley,",
-        "Japan ===[national]===> Route 142:"
+        "Japan ===[national]===> Route 142:",
+        "Ghorawadi ===[caves:]===> The Ghorawadi"
     ]
 }
