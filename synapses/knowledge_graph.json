@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Building",
-        "Park Avenue:",
         "Zhou",
         "Zhou Wenzhong",
         "Served",
@@ -99,7 +97,9 @@
         "Brad",
         "Bradley Porter",
         "Universidade",
-        "Universidade Paz"
+        "Universidade Paz",
+        "Vegyn:",
+        "Winger Thornalley,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -226,6 +226,7 @@
         "Served ===[the]===> tow",
         "Erin ===[matson]===> (field hockey):",
         "Brad ===[porter:]===> Bradley Porter",
-        "Universidade ===[paz:]===> Universidade Paz"
+        "Universidade ===[paz:]===> Universidade Paz",
+        "Vegyn: ===[joseph]===> Winger Thornalley,"
     ]
 }
