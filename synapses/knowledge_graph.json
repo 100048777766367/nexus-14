@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "She",
-        "noted for",
         "Lukut",
         "and Museum:",
         "was built",
@@ -99,7 +97,9 @@
         "Ghorawadi",
         "The Ghorawadi",
         "Claire",
-        "(art historian):"
+        "(art historian):",
+        "Velabrum:",
+        "Velabrum the"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -230,6 +230,7 @@
         "Vegyn: ===[joseph]===> Winger Thornalley,",
         "Japan ===[national]===> Route 142:",
         "Ghorawadi ===[caves:]===> The Ghorawadi",
-        "Claire ===[holt]===> (art historian):"
+        "Claire ===[holt]===> (art historian):",
+        "Velabrum: ===[the]===> Velabrum the"
     ]
 }
