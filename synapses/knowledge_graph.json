@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Tilly",
-        "Mathilde Rupp,",
         "She",
         "noted for",
         "Lukut",
@@ -99,7 +97,9 @@
         "Japan",
         "Route 142:",
         "Ghorawadi",
-        "The Ghorawadi"
+        "The Ghorawadi",
+        "Claire",
+        "(art historian):"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -229,6 +229,7 @@
         "Universidade ===[paz:]===> Universidade Paz",
         "Vegyn: ===[joseph]===> Winger Thornalley,",
         "Japan ===[national]===> Route 142:",
-        "Ghorawadi ===[caves:]===> The Ghorawadi"
+        "Ghorawadi ===[caves:]===> The Ghorawadi",
+        "Claire ===[holt]===> (art historian):"
     ]
 }
