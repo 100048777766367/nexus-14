@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "was built",
-        "York Album:",
         "Hermes:",
         "Johannes \"Ad\"",
         "Ptilostomis:",
@@ -99,7 +97,9 @@
         "Velabrum:",
         "Velabrum the",
         "Mirza",
-        "Huseynov: Mirza"
+        "Huseynov: Mirza",
+        "Fragrant",
+        "Fragrant World"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -232,6 +232,7 @@
         "Ghorawadi ===[caves:]===> The Ghorawadi",
         "Claire ===[holt]===> (art historian):",
         "Velabrum: ===[the]===> Velabrum the",
-        "Mirza ===[davud]===> Huseynov: Mirza"
+        "Mirza ===[davud]===> Huseynov: Mirza",
+        "Fragrant ===[world:]===> Fragrant World"
     ]
 }
