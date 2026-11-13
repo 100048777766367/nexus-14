@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lukut",
-        "and Museum:",
         "was built",
         "York Album:",
         "Hermes:",
@@ -99,7 +97,9 @@
         "Claire",
         "(art historian):",
         "Velabrum:",
-        "Velabrum the"
+        "Velabrum the",
+        "Mirza",
+        "Huseynov: Mirza"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -231,6 +231,7 @@
         "Japan ===[national]===> Route 142:",
         "Ghorawadi ===[caves:]===> The Ghorawadi",
         "Claire ===[holt]===> (art historian):",
-        "Velabrum: ===[the]===> Velabrum the"
+        "Velabrum: ===[the]===> Velabrum the",
+        "Mirza ===[davud]===> Huseynov: Mirza"
     ]
 }
