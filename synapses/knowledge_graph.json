@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Hermes:",
-        "Johannes \"Ad\"",
-        "Ptilostomis:",
         "genus giant",
         "There",
         "least four",
@@ -99,7 +96,10 @@
         "Mirza",
         "Huseynov: Mirza",
         "Fragrant",
-        "Fragrant World"
+        "Fragrant World",
+        "Cithaeron",
+        "Cithaeron contentum",
+        "Africa"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -233,6 +233,8 @@
         "Claire ===[holt]===> (art historian):",
         "Velabrum: ===[the]===> Velabrum the",
         "Mirza ===[davud]===> Huseynov: Mirza",
-        "Fragrant ===[world:]===> Fragrant World"
+        "Fragrant ===[world:]===> Fragrant World",
+        "Cithaeron ===[contentum:]===> Cithaeron contentum",
+        "Endemic ===[south]===> Africa"
     ]
 }
