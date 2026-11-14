@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "genus giant",
-        "There",
         "least four",
         "Amorupi:",
         "genus beetles",
@@ -99,7 +97,9 @@
         "Fragrant World",
         "Cithaeron",
         "Cithaeron contentum",
-        "Africa"
+        "Africa",
+        "Beyazıt",
+        "Beyazıt Tower,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -235,6 +235,7 @@
         "Mirza ===[davud]===> Huseynov: Mirza",
         "Fragrant ===[world:]===> Fragrant World",
         "Cithaeron ===[contentum:]===> Cithaeron contentum",
-        "Endemic ===[south]===> Africa"
+        "Endemic ===[south]===> Africa",
+        "Beyazıt ===[tower:]===> Beyazıt Tower,"
     ]
 }
