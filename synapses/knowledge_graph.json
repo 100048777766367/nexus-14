@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "least four",
-        "Amorupi:",
-        "genus beetles",
-        "Why",
         "They Let",
         "Sadolin",
         "Hall: The",
@@ -99,7 +95,11 @@
         "Cithaeron contentum",
         "Africa",
         "Beyazıt",
-        "Beyazıt Tower,"
+        "Beyazıt Tower,",
+        "Hing",
+        "Estate: Hing",
+        "The",
+        "was constructed"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -236,6 +236,8 @@
         "Fragrant ===[world:]===> Fragrant World",
         "Cithaeron ===[contentum:]===> Cithaeron contentum",
         "Endemic ===[south]===> Africa",
-        "Beyazıt ===[tower:]===> Beyazıt Tower,"
+        "Beyazıt ===[tower:]===> Beyazıt Tower,",
+        "Hing ===[tung]===> Estate: Hing",
+        "The ===[estate]===> was constructed"
     ]
 }
