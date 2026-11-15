@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hall: The",
-        "Was",
         "2010 and",
         "Bianca",
         "Bianca Spender",
@@ -99,7 +97,9 @@
         "The",
         "was constructed",
         "Chille:",
-        "commune the"
+        "commune the",
+        "Novgorodsky",
+        "Novgorodsky District"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -239,6 +239,7 @@
         "Beyazıt ===[tower:]===> Beyazıt Tower,",
         "Hing ===[tung]===> Estate: Hing",
         "The ===[estate]===> was constructed",
-        "Chille: ===[chille]===> commune the"
+        "Chille: ===[chille]===> commune the",
+        "Novgorodsky ===[district:]===> Novgorodsky District"
     ]
 }
