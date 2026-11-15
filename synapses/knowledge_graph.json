@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Bianca Spender",
-        "Biesenthal-barnim:",
         "Biesenthal-Barnim Amt",
         "the town",
         "John",
@@ -99,7 +97,9 @@
         "Novgorodsky",
         "Novgorodsky District",
         "Fuchsia:",
-        "genus flowering"
+        "genus flowering",
+        "Moila",
+        "Moila Danda"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -241,6 +241,7 @@
         "The ===[estate]===> was constructed",
         "Chille: ===[chille]===> commune the",
         "Novgorodsky ===[district:]===> Novgorodsky District",
-        "Fuchsia: ===[fuchsia]===> genus flowering"
+        "Fuchsia: ===[fuchsia]===> genus flowering",
+        "Moila ===[danda:]===> Moila Danda"
     ]
 }
