@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Biesenthal-Barnim Amt",
-        "the town",
-        "John",
-        "(Canadian civil",
         "Sullivan:",
         "Henry Sullivan",
         "pro",
@@ -99,7 +95,11 @@
         "Fuchsia:",
         "genus flowering",
         "Moila",
-        "Moila Danda"
+        "Moila Danda",
+        "Schooner",
+        "Vega two-masted,",
+        "Originally",
+        "the Etak,"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -242,6 +242,8 @@
         "Chille: ===[chille]===> commune the",
         "Novgorodsky ===[district:]===> Novgorodsky District",
         "Fuchsia: ===[fuchsia]===> genus flowering",
-        "Moila ===[danda:]===> Moila Danda"
+        "Moila ===[danda:]===> Moila Danda",
+        "Schooner ===[vega:]===> Vega two-masted,",
+        "Originally ===[launched]===> the Etak,"
     ]
 }
