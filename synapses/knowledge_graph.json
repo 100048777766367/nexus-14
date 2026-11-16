@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sullivan:",
-        "Henry Sullivan",
         "pro",
         "2024",
         "Citi Open",
@@ -99,7 +97,9 @@
         "Schooner",
         "Vega two-masted,",
         "Originally",
-        "the Etak,"
+        "the Etak,",
+        "Subaru",
+        "The Subaru"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -244,6 +244,7 @@
         "Fuchsia: ===[fuchsia]===> genus flowering",
         "Moila ===[danda:]===> Moila Danda",
         "Schooner ===[vega:]===> Vega two-masted,",
-        "Originally ===[launched]===> the Etak,"
+        "Originally ===[launched]===> the Etak,",
+        "Subaru ===[sumo:]===> The Subaru"
     ]
 }
