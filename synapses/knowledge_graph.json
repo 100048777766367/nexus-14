@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "pro",
-        "2024",
         "Citi Open",
         "2k22",
         "The 2K22",
@@ -99,7 +97,9 @@
         "Originally",
         "the Etak,",
         "Subaru",
-        "The Subaru"
+        "The Subaru",
+        "Cool",
+        "Cool Runnings"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -245,6 +245,7 @@
         "Moila ===[danda:]===> Moila Danda",
         "Schooner ===[vega:]===> Vega two-masted,",
         "Originally ===[launched]===> the Etak,",
-        "Subaru ===[sumo:]===> The Subaru"
+        "Subaru ===[sumo:]===> The Subaru",
+        "Cool ===[runnings:]===> Cool Runnings"
     ]
 }
