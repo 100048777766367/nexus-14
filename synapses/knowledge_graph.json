@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Prince Imperial:",
-        "Protvino:",
         "town Moscow",
         "Tamwe",
         "Tamwe Township",
@@ -99,7 +97,9 @@
         "Jaeger's",
         "The Jaeger's",
         "Found",
-        "Dominican Republic"
+        "Dominican Republic",
+        "Ross:",
+        "Lynn Ross"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -248,6 +248,7 @@
         "Subaru ===[sumo:]===> The Subaru",
         "Cool ===[runnings:]===> Cool Runnings",
         "Jaeger's ===[anetia:]===> The Jaeger's",
-        "Found ===[the]===> Dominican Republic"
+        "Found ===[the]===> Dominican Republic",
+        "Ross: ===[jerry]===> Lynn Ross"
     ]
 }
