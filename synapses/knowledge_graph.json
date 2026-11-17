@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Citi Open",
-        "2k22",
-        "The 2K22",
-        "Railway",
         "Prince Imperial:",
         "Protvino:",
         "town Moscow",
@@ -99,7 +95,11 @@
         "Subaru",
         "The Subaru",
         "Cool",
-        "Cool Runnings"
+        "Cool Runnings",
+        "Jaeger's",
+        "The Jaeger's",
+        "Found",
+        "Dominican Republic"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -246,6 +246,8 @@
         "Schooner ===[vega:]===> Vega two-masted,",
         "Originally ===[launched]===> the Etak,",
         "Subaru ===[sumo:]===> The Subaru",
-        "Cool ===[runnings:]===> Cool Runnings"
+        "Cool ===[runnings:]===> Cool Runnings",
+        "Jaeger's ===[anetia:]===> The Jaeger's",
+        "Found ===[the]===> Dominican Republic"
     ]
 }
