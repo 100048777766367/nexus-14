@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "town Moscow",
-        "Tamwe",
         "Tamwe Township",
         "comprises wards,",
         "Echigo-takiya",
@@ -99,7 +97,9 @@
         "Found",
         "Dominican Republic",
         "Ross:",
-        "Lynn Ross"
+        "Lynn Ross",
+        "Dreams",
+        "album): Dreams"
     ],
     "edges": [
         "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
@@ -249,6 +249,7 @@
         "Cool ===[runnings:]===> Cool Runnings",
         "Jaeger's ===[anetia:]===> The Jaeger's",
         "Found ===[the]===> Dominican Republic",
-        "Ross: ===[jerry]===> Lynn Ross"
+        "Ross: ===[jerry]===> Lynn Ross",
+        "Dreams ===[(evermore]===> album): Dreams"
     ]
 }
