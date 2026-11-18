@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Tamwe Township",
-        "comprises wards,",
-        "Echigo-takiya",
-        "Echigo-Takiya Station",
         "Gopal",
         "Pillai: Gopal",
         "Pillai",
@@ -99,10 +95,13 @@
         "Ross:",
         "Lynn Ross",
         "Dreams",
-        "album): Dreams"
+        "album): Dreams",
+        "Susie",
+        "Susie Lewis",
+        "She",
+        "known for"
     ],
     "edges": [
-        "Ergosecaline: ===[ergosecaline]===> ergot alkaloid",
         "Has ===[simpler]===> structure than",
         "Verel-pragondran: ===[verel-pragondran]===> commune the",
         "Fort ===[steuben]===> Bridge: The",
@@ -250,6 +249,8 @@
         "Jaeger's ===[anetia:]===> The Jaeger's",
         "Found ===[the]===> Dominican Republic",
         "Ross: ===[jerry]===> Lynn Ross",
-        "Dreams ===[(evermore]===> album): Dreams"
+        "Dreams ===[(evermore]===> album): Dreams",
+        "Susie ===[lewis:]===> Susie Lewis",
+        "She ===[best]===> known for"
     ]
 }
