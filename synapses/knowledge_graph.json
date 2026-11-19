@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Gopal",
-        "Pillai: Gopal",
         "Pillai",
         "Indian Administrative",
         "Three-toed",
@@ -99,10 +97,11 @@
         "Susie",
         "Susie Lewis",
         "She",
-        "known for"
+        "known for",
+        "Munroe",
+        "American businessman"
     ],
     "edges": [
-        "Has ===[simpler]===> structure than",
         "Verel-pragondran: ===[verel-pragondran]===> commune the",
         "Fort ===[steuben]===> Bridge: The",
         "Jones ===[ice]===> Shelf: Jones",
@@ -251,6 +250,7 @@
         "Ross: ===[jerry]===> Lynn Ross",
         "Dreams ===[(evermore]===> album): Dreams",
         "Susie ===[lewis:]===> Susie Lewis",
-        "She ===[best]===> known for"
+        "She ===[best]===> known for",
+        "Munroe ===[was]===> American businessman"
     ]
 }
