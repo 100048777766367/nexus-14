@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pillai",
-        "Indian Administrative",
         "Three-toed",
         "The three-toed",
         "Endemic",
@@ -99,10 +97,11 @@
         "She",
         "known for",
         "Munroe",
-        "American businessman"
+        "American businessman",
+        "Easley",
+        "the Oklahoma"
     ],
     "edges": [
-        "Verel-pragondran: ===[verel-pragondran]===> commune the",
         "Fort ===[steuben]===> Bridge: The",
         "Jones ===[ice]===> Shelf: Jones",
         "Jasmin ===[baumann:]===> Jasmin Nunige",
@@ -251,6 +250,7 @@
         "Dreams ===[(evermore]===> album): Dreams",
         "Susie ===[lewis:]===> Susie Lewis",
         "She ===[best]===> known for",
-        "Munroe ===[was]===> American businessman"
+        "Munroe ===[was]===> American businessman",
+        "Easley ===[served]===> the Oklahoma"
     ]
 }
