@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Three-toed",
-        "The three-toed",
-        "Endemic",
-        "China",
         "Drowning",
         "Town song):",
         "was written",
@@ -99,11 +95,13 @@
         "Munroe",
         "American businessman",
         "Easley",
-        "the Oklahoma"
+        "the Oklahoma",
+        "Former",
+        "Magistracy: The",
+        "302",
+        "Club Road"
     ],
     "edges": [
-        "Fort ===[steuben]===> Bridge: The",
-        "Jones ===[ice]===> Shelf: Jones",
         "Jasmin ===[baumann:]===> Jasmin Nunige",
         "She ===[competed]===> two events",
         "Drnovice ===[was]===> Czech football",
@@ -251,6 +249,8 @@
         "Susie ===[lewis:]===> Susie Lewis",
         "She ===[best]===> known for",
         "Munroe ===[was]===> American businessman",
-        "Easley ===[served]===> the Oklahoma"
+        "Easley ===[served]===> the Oklahoma",
+        "Former ===[fanling]===> Magistracy: The",
+        "302 ===[jockey]===> Club Road"
     ]
 }
