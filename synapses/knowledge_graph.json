@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Institute, Mysore:",
-        "Valerie",
-        "Valerie Isobel",
-        "the 1958,",
         "Sad",
         "Story: Sad",
         "Newport",
@@ -99,11 +95,13 @@
         "Ketu",
         "Ketu the",
         "Personified",
-        "Rāhu and"
+        "Rāhu and",
+        "Sanjoy",
+        "Sanjoy Sen",
+        "Under",
+        "leadership Mohun"
     ],
     "edges": [
-        "Mason ===[township,]===> Cass County,",
-        "The ===[population]===> was 2,841",
         "Tonga ===[plate:]===> The Tonga",
         "Centered ===[approximately]===> 19°",
         "Five ===[rivers,]===> New Brunswick:",
@@ -251,6 +249,8 @@
         "302 ===[jockey]===> Club Road",
         "1974 ===[hardie-ferodo]===> 1000: The",
         "Ketu ===[(mythology):]===> Ketu the",
-        "Personified ===[deity,]===> Rāhu and"
+        "Personified ===[deity,]===> Rāhu and",
+        "Sanjoy ===[sen:]===> Sanjoy Sen",
+        "Under ===[his]===> leadership Mohun"
     ]
 }
