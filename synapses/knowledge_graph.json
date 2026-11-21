@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sad",
-        "Story: Sad",
         "Newport",
         "Shipbuilding: Newport",
         "Kopanki,",
@@ -99,10 +97,11 @@
         "Sanjoy",
         "Sanjoy Sen",
         "Under",
-        "leadership Mohun"
+        "leadership Mohun",
+        "Babak",
+        "Babak Hatami"
     ],
     "edges": [
-        "Tonga ===[plate:]===> The Tonga",
         "Centered ===[approximately]===> 19°",
         "Five ===[rivers,]===> New Brunswick:",
         "Was ===[formed]===> through the",
@@ -251,6 +250,7 @@
         "Ketu ===[(mythology):]===> Ketu the",
         "Personified ===[deity,]===> Rāhu and",
         "Sanjoy ===[sen:]===> Sanjoy Sen",
-        "Under ===[his]===> leadership Mohun"
+        "Under ===[his]===> leadership Mohun",
+        "Babak ===[hatami:]===> Babak Hatami"
     ]
 }
