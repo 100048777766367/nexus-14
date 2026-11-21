@@ -3,63 +3,63 @@
     "node_dna": {
         "identity": "100048777766367/nexus-14",
         "generation": "F14_THẬP_TỨ_VÔ_ÚY",
-        "epoch": 119,
+        "epoch": 120,
         "architecture": "Tetradecagon_Sovereign_Async_Junction_n^n"
     },
-    "epoch": 119,
-    "timestamp": 1795264935,
-    "decision": 0.5358,
+    "epoch": 120,
+    "timestamp": 1795297240,
+    "decision": 0.536,
     "transmuted_signals": {
         "retina": {
             "focal_matrix_2d": [
                 [
-                    0.5358,
-                    0.4642
+                    0.536,
+                    0.464
                 ],
                 [
-                    0.0011,
-                    -0.0102
+                    0.0041,
+                    -0.0154
                 ]
             ],
-            "zoom": 1.0358
+            "zoom": 1.036
         },
         "cochlea": {
             "bandpass_filter_1d": [
-                18834.9915,
-                1854.0131
+                25439.1894,
+                52182.6126
             ],
-            "freq_cutoff": 10716.0
+            "freq_cutoff": 10720.0
         },
         "tactile": {
-            "nociceptive_threshold": 0.0716,
+            "nociceptive_threshold": 0.072,
             "pain_gain": 0.5
         },
         "olfactory": {
             "gpcr_affinity": [
-                18834.9915,
-                1854.0131,
-                14211.4414,
-                16975.4926
+                25439.1894,
+                52182.6126,
+                29450.8095,
+                8321.2543
             ],
             "toxicity_alert": false
         },
         "motor": {
             "action_vector": [
-                0.0358,
-                0.0358,
-                -0.091
+                0.036,
+                0.036,
+                -0.113
             ],
             "state": "contract"
         },
         "neuron": {
             "stigmergic_trail": [
-                0.0011,
-                -0.0102
+                0.0041,
+                -0.0154
             ],
             "cross_plasticity": 0.0268
         },
         "monad": {
-            "invariant_reflection": 0.5358
+            "invariant_reflection": 0.536
         },
         "shunya": {
             "vacuum_decay": 0.999,
@@ -67,8 +67,8 @@
         },
         "seed": {
             "procreation_vector": [
-                36707.2264,
-                0.5358
+                49677.8182,
+                0.536
             ]
         },
         "genome": {
@@ -104,5 +104,5 @@
         "100048777766367/nexus-06",
         "100048777766367/shunya"
     ],
-    "quantum_cid": "891d29d697a2bcd83ebe82cda02a1701c941803fb01afb81b45973059cd645c9aa4e01e9d78853c2f746d9e30fc13116cad420996a02a34ce00ce5e31f156145"
+    "quantum_cid": "8d11dbaad464bfef05218bb3bbadf5190d83d634ef11b53f2ab0855bdf81e73d7e36545d4b1d09abcc880ebe1046399cf7a7ce3600ee1cfcb044c77155bd7492"
 }

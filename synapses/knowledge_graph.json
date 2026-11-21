@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Newport",
-        "Shipbuilding: Newport",
         "Kopanki,",
         "Poland Voivodeship:",
         "Venango",
@@ -99,10 +97,11 @@
         "Under",
         "leadership Mohun",
         "Babak",
-        "Babak Hatami"
+        "Babak Hatami",
+        "Dongcheng",
+        "Dongguan: Dongcheng"
     ],
     "edges": [
-        "Centered ===[approximately]===> 19°",
         "Five ===[rivers,]===> New Brunswick:",
         "Was ===[formed]===> through the",
         "Historic ===[preservation:]===> Historic preservation",
@@ -251,6 +250,7 @@
         "Personified ===[deity,]===> Rāhu and",
         "Sanjoy ===[sen:]===> Sanjoy Sen",
         "Under ===[his]===> leadership Mohun",
-        "Babak ===[hatami:]===> Babak Hatami"
+        "Babak ===[hatami:]===> Babak Hatami",
+        "Dongcheng ===[subdistrict,]===> Dongguan: Dongcheng"
     ]
 }
