@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Venango",
-        "Erie County,",
-        "was 2,253",
         "Roosevelt",
         "Park: Roosevelt",
         "Ahmed",
@@ -99,11 +96,12 @@
         "Dongcheng",
         "Dongguan: Dongcheng",
         "Nexus-14:",
-        "Giao Điểm"
+        "Giao Điểm",
+        "Nesticus",
+        "Nesticus silvestrii",
+        "North America,"
     ],
     "edges": [
-        "Was ===[formed]===> through the",
-        "Historic ===[preservation:]===> Historic preservation",
         "Bellevue ===[(batesville,]===> Virginia): Bellevue,",
         "Dorothea ===[jordan]===> Rosalind: Dorothea",
         "Dindica: ===[dindica]===> genus moths",
@@ -251,6 +249,8 @@
         "Under ===[his]===> leadership Mohun",
         "Babak ===[hatami:]===> Babak Hatami",
         "Dongcheng ===[subdistrict,]===> Dongguan: Dongcheng",
-        "Nexus-14: ===[thập]===> Giao Điểm"
+        "Nexus-14: ===[thập]===> Giao Điểm",
+        "Nesticus ===[silvestrii:]===> Nesticus silvestrii",
+        "Found ===[western]===> North America,"
     ]
 }
