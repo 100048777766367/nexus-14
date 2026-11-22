@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kopanki,",
-        "Poland Voivodeship:",
         "Venango",
         "Erie County,",
         "was 2,253",
@@ -99,10 +97,11 @@
         "Babak",
         "Babak Hatami",
         "Dongcheng",
-        "Dongguan: Dongcheng"
+        "Dongguan: Dongcheng",
+        "Nexus-14:",
+        "Giao Điểm"
     ],
     "edges": [
-        "Five ===[rivers,]===> New Brunswick:",
         "Was ===[formed]===> through the",
         "Historic ===[preservation:]===> Historic preservation",
         "Bellevue ===[(batesville,]===> Virginia): Bellevue,",
@@ -251,6 +250,7 @@
         "Sanjoy ===[sen:]===> Sanjoy Sen",
         "Under ===[his]===> leadership Mohun",
         "Babak ===[hatami:]===> Babak Hatami",
-        "Dongcheng ===[subdistrict,]===> Dongguan: Dongcheng"
+        "Dongcheng ===[subdistrict,]===> Dongguan: Dongcheng",
+        "Nexus-14: ===[thập]===> Giao Điểm"
     ]
 }
