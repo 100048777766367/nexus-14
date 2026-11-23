@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ahmed",
-        "Ahmed Shawqi,",
         "Pinky",
         "Pinky 1949",
         "was adapted",
@@ -99,10 +97,11 @@
         "Nesticus silvestrii",
         "North America,",
         "Expeditionary",
-        "group: the"
+        "group: the",
+        "Wwa",
+        "Heavyweight Championship:"
     ],
     "edges": [
-        "Dorothea ===[jordan]===> Rosalind: Dorothea",
         "Dindica: ===[dindica]===> genus moths",
         "Sycopsis: ===[sycopsis]===> genus plants",
         "Includes ===[three]===> species native",
@@ -251,6 +250,7 @@
         "Nexus-14: ===[thập]===> Giao Điểm",
         "Nesticus ===[silvestrii:]===> Nesticus silvestrii",
         "Found ===[western]===> North America,",
-        "Expeditionary ===[strike]===> group: the"
+        "Expeditionary ===[strike]===> group: the",
+        "Wwa ===[light]===> Heavyweight Championship:"
     ]
 }
