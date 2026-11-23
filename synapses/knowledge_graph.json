@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Roosevelt",
-        "Park: Roosevelt",
         "Ahmed",
         "Ahmed Shawqi,",
         "Pinky",
@@ -99,10 +97,11 @@
         "Giao Điểm",
         "Nesticus",
         "Nesticus silvestrii",
-        "North America,"
+        "North America,",
+        "Expeditionary",
+        "group: the"
     ],
     "edges": [
-        "Bellevue ===[(batesville,]===> Virginia): Bellevue,",
         "Dorothea ===[jordan]===> Rosalind: Dorothea",
         "Dindica: ===[dindica]===> genus moths",
         "Sycopsis: ===[sycopsis]===> genus plants",
@@ -251,6 +250,7 @@
         "Dongcheng ===[subdistrict,]===> Dongguan: Dongcheng",
         "Nexus-14: ===[thập]===> Giao Điểm",
         "Nesticus ===[silvestrii:]===> Nesticus silvestrii",
-        "Found ===[western]===> North America,"
+        "Found ===[western]===> North America,",
+        "Expeditionary ===[strike]===> group: the"
     ]
 }
