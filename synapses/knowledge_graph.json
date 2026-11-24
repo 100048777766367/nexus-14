@@ -1,12 +1,5 @@
 {
     "nodes": [
-        "was adapted",
-        "Arkansas",
-        "Arkansas Highway",
-        "Km)",
-        "fro",
-        "Krasnojarsk",
-        "Krasnojarsk was",
         "Wallumbilla",
         "station: Wallumbilla",
         "tow",
@@ -99,13 +92,16 @@
         "Wwa",
         "Heavyweight Championship:",
         "Suzemsky",
-        "Suzemsky District"
+        "Suzemsky District",
+        "Juha",
+        "Valkama",
+        "former competitive",
+        "Teamed",
+        "Jessica Huot",
+        "They",
+        "the 2002–04"
     ],
     "edges": [
-        "Sycopsis: ===[sycopsis]===> genus plants",
-        "Includes ===[three]===> species native",
-        "Herb ===[mcquaid:]===> Herbert George",
-        "Mcquaid ===[played]===> for the",
         "Battle ===[liberty]===> Place Monument:",
         "Nos ===[(drink):]===> NOS energy",
         "The ===[drink]===> was also",
@@ -251,6 +247,10 @@
         "Found ===[western]===> North America,",
         "Expeditionary ===[strike]===> group: the",
         "Wwa ===[light]===> Heavyweight Championship:",
-        "Suzemsky ===[district:]===> Suzemsky District"
+        "Suzemsky ===[district:]===> Suzemsky District",
+        "Juha ===[valkama:]===> Juha",
+        "Valkama ===[finnish]===> former competitive",
+        "Teamed ===[with]===> Jessica Huot",
+        "They ===[are]===> the 2002–04"
     ]
 }
