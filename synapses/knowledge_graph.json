@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pinky",
-        "Pinky 1949",
         "was adapted",
         "Arkansas",
         "Arkansas Highway",
@@ -99,10 +97,11 @@
         "Expeditionary",
         "group: the",
         "Wwa",
-        "Heavyweight Championship:"
+        "Heavyweight Championship:",
+        "Suzemsky",
+        "Suzemsky District"
     ],
     "edges": [
-        "Dindica: ===[dindica]===> genus moths",
         "Sycopsis: ===[sycopsis]===> genus plants",
         "Includes ===[three]===> species native",
         "Herb ===[mcquaid:]===> Herbert George",
@@ -251,6 +250,7 @@
         "Nesticus ===[silvestrii:]===> Nesticus silvestrii",
         "Found ===[western]===> North America,",
         "Expeditionary ===[strike]===> group: the",
-        "Wwa ===[light]===> Heavyweight Championship:"
+        "Wwa ===[light]===> Heavyweight Championship:",
+        "Suzemsky ===[district:]===> Suzemsky District"
     ]
 }
