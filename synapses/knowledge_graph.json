@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Wallumbilla",
-        "station: Wallumbilla",
         "tow",
         "Erin",
         "(field hockey):",
@@ -99,10 +97,11 @@
         "Teamed",
         "Jessica Huot",
         "They",
-        "the 2002–04"
+        "the 2002–04",
+        "Asplenium",
+        "Asplenium auritum,"
     ],
     "edges": [
-        "Battle ===[liberty]===> Place Monument:",
         "Nos ===[(drink):]===> NOS energy",
         "The ===[drink]===> was also",
         "Jacques, ===[duke]===> Nevers: Jacques",
@@ -251,6 +250,7 @@
         "Juha ===[valkama:]===> Juha",
         "Valkama ===[finnish]===> former competitive",
         "Teamed ===[with]===> Jessica Huot",
-        "They ===[are]===> the 2002–04"
+        "They ===[are]===> the 2002–04",
+        "Asplenium ===[auritum:]===> Asplenium auritum,"
     ]
 }
