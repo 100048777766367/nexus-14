@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "tow",
-        "Erin",
         "(field hockey):",
         "Brad",
         "Bradley Porter",
@@ -99,10 +97,11 @@
         "They",
         "the 2002–04",
         "Asplenium",
-        "Asplenium auritum,"
+        "Asplenium auritum,",
+        "Lerner",
+        "Loewe: Lerner"
     ],
     "edges": [
-        "Nos ===[(drink):]===> NOS energy",
         "The ===[drink]===> was also",
         "Jacques, ===[duke]===> Nevers: Jacques",
         "Maurice's ===[campaign]===> 1591: Maurice's",
@@ -251,6 +250,7 @@
         "Valkama ===[finnish]===> former competitive",
         "Teamed ===[with]===> Jessica Huot",
         "They ===[are]===> the 2002–04",
-        "Asplenium ===[auritum:]===> Asplenium auritum,"
+        "Asplenium ===[auritum:]===> Asplenium auritum,",
+        "Lerner ===[and]===> Loewe: Lerner"
     ]
 }
