@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Bradley Porter",
-        "Universidade",
-        "Universidade Paz",
         "Vegyn:",
         "Winger Thornalley,",
         "Japan",
@@ -99,11 +96,12 @@
         "Lerner",
         "Loewe: Lerner",
         "Jaane",
-        "Kya: Jaane"
+        "Kya: Jaane",
+        "Aleiodes:",
+        "genus the",
+        "also"
     ],
     "edges": [
-        "Jacques, ===[duke]===> Nevers: Jacques",
-        "Maurice's ===[campaign]===> 1591: Maurice's",
         "Thiolutin: ===[thiolutin]===> sulfur-containing antibiotic,",
         "Calauag: ===[calauag,]===> officially the",
         "Pak ===[mok-wol:]===> Pak Mok-wol",
@@ -251,6 +249,8 @@
         "They ===[are]===> the 2002–04",
         "Asplenium ===[auritum:]===> Asplenium auritum,",
         "Lerner ===[and]===> Loewe: Lerner",
-        "Jaane ===[hoga]===> Kya: Jaane"
+        "Jaane ===[hoga]===> Kya: Jaane",
+        "Aleiodes: ===[aleiodes]===> genus the",
+        "They ===[are]===> also"
     ]
 }
