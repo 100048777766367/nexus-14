@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(field hockey):",
-        "Brad",
         "Bradley Porter",
         "Universidade",
         "Universidade Paz",
@@ -99,10 +97,11 @@
         "Asplenium",
         "Asplenium auritum,",
         "Lerner",
-        "Loewe: Lerner"
+        "Loewe: Lerner",
+        "Jaane",
+        "Kya: Jaane"
     ],
     "edges": [
-        "The ===[drink]===> was also",
         "Jacques, ===[duke]===> Nevers: Jacques",
         "Maurice's ===[campaign]===> 1591: Maurice's",
         "Thiolutin: ===[thiolutin]===> sulfur-containing antibiotic,",
@@ -251,6 +250,7 @@
         "Teamed ===[with]===> Jessica Huot",
         "They ===[are]===> the 2002–04",
         "Asplenium ===[auritum:]===> Asplenium auritum,",
-        "Lerner ===[and]===> Loewe: Lerner"
+        "Lerner ===[and]===> Loewe: Lerner",
+        "Jaane ===[hoga]===> Kya: Jaane"
     ]
 }
