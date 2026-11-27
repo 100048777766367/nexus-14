@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Vegyn:",
-        "Winger Thornalley,",
         "Japan",
         "Route 142:",
         "Ghorawadi",
@@ -99,10 +97,11 @@
         "Kya: Jaane",
         "Aleiodes:",
         "genus the",
-        "also"
+        "also",
+        "Hygrotus",
+        "Hygrotus confluens"
     ],
     "edges": [
-        "Thiolutin: ===[thiolutin]===> sulfur-containing antibiotic,",
         "Calauag: ===[calauag,]===> officially the",
         "Pak ===[mok-wol:]===> Pak Mok-wol",
         "The ===[royal]===> Oak (film):",
@@ -251,6 +250,7 @@
         "Lerner ===[and]===> Loewe: Lerner",
         "Jaane ===[hoga]===> Kya: Jaane",
         "Aleiodes: ===[aleiodes]===> genus the",
-        "They ===[are]===> also"
+        "They ===[are]===> also",
+        "Hygrotus ===[confluens:]===> Hygrotus confluens"
     ]
 }
