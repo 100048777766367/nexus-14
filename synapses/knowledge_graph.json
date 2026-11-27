@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Japan",
-        "Route 142:",
-        "Ghorawadi",
         "The Ghorawadi",
         "Claire",
         "(art historian):",
@@ -99,11 +96,12 @@
         "genus the",
         "also",
         "Hygrotus",
-        "Hygrotus confluens"
+        "Hygrotus confluens",
+        "Central",
+        "Lesotho: The",
+        "located Maseru"
     ],
     "edges": [
-        "Calauag: ===[calauag,]===> officially the",
-        "Pak ===[mok-wol:]===> Pak Mok-wol",
         "The ===[royal]===> Oak (film):",
         "Route ===[10a]===> (Vermont–New Hampshire):",
         "722 ===[km)]===> east-west highway",
@@ -251,6 +249,8 @@
         "Jaane ===[hoga]===> Kya: Jaane",
         "Aleiodes: ===[aleiodes]===> genus the",
         "They ===[are]===> also",
-        "Hygrotus ===[confluens:]===> Hygrotus confluens"
+        "Hygrotus ===[confluens:]===> Hygrotus confluens",
+        "Central ===[bank]===> Lesotho: The",
+        "The ===[bank]===> located Maseru"
     ]
 }
