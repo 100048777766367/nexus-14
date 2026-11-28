@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Velabrum the",
-        "Mirza",
         "Huseynov: Mirza",
         "Fragrant",
         "Fragrant World",
@@ -99,10 +97,11 @@
         "Mikołaj",
         "Mikołaj Marczyk",
         "Won",
-        "Polish Rally"
+        "Polish Rally",
+        "Leon",
+        "Leon Malhomme"
     ],
     "edges": [
-        "722 ===[km)]===> east-west highway",
         "Epsilon ===[cancri:]===> Epsilon Cancri",
         "Its ===[name]===> Bayer designati",
         "Vladimir ===[zografski:]===> Vladimir Zografski",
@@ -251,6 +250,7 @@
         "Central ===[bank]===> Lesotho: The",
         "The ===[bank]===> located Maseru",
         "Mikołaj ===[marczyk:]===> Mikołaj Marczyk",
-        "Won ===[the]===> Polish Rally"
+        "Won ===[the]===> Polish Rally",
+        "Leon ===[malhomme:]===> Leon Malhomme"
     ]
 }
