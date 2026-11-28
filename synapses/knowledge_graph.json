@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "The Ghorawadi",
-        "Claire",
-        "(art historian):",
-        "Velabrum:",
         "Velabrum the",
         "Mirza",
         "Huseynov: Mirza",
@@ -99,11 +95,13 @@
         "Hygrotus confluens",
         "Central",
         "Lesotho: The",
-        "located Maseru"
+        "located Maseru",
+        "Mikołaj",
+        "Mikołaj Marczyk",
+        "Won",
+        "Polish Rally"
     ],
     "edges": [
-        "The ===[royal]===> Oak (film):",
-        "Route ===[10a]===> (Vermont–New Hampshire):",
         "722 ===[km)]===> east-west highway",
         "Epsilon ===[cancri:]===> Epsilon Cancri",
         "Its ===[name]===> Bayer designati",
@@ -251,6 +249,8 @@
         "They ===[are]===> also",
         "Hygrotus ===[confluens:]===> Hygrotus confluens",
         "Central ===[bank]===> Lesotho: The",
-        "The ===[bank]===> located Maseru"
+        "The ===[bank]===> located Maseru",
+        "Mikołaj ===[marczyk:]===> Mikołaj Marczyk",
+        "Won ===[the]===> Polish Rally"
     ]
 }
